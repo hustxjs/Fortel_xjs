@@ -35,8 +35,7 @@ public class DestinyTest {
 
 		Config initConfig = new Config(ConfigType.SKY, Sex.M, 1952, 12, 15, false, GroundTime.getByName("寅").get());
 		Destiny destiny = new Destiny(initConfig);
-		System.out.println(destiny.toJsonString());
-		
+
 		assertNotNull(destiny);
 		Map<RuntimeCategory, RuntimeInfo> runtimeInfoMap = RuntimeInfo.getRuntimeInfoMap(destiny,
 				new Lunar(2017, 6, 24, false));
