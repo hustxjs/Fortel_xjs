@@ -134,7 +134,7 @@ public class Config implements Cloneable, Serializable {
 	public String toShortString() {
 		StringBuilder sb = new StringBuilder();
 		return sb.append(new Lunar(bornYear, bornMonth, bornDay, isDoubleMonth).toString()).append("，")
-				.append(bornTimeGround.getDisplayName()).append("時").append(configType.getDisplayName())
+				.append(bornTimeGround.getDisplayName()).append("时").append(configType.getDisplayName())
 				.append(sex.getDisplayName()).toString();
 	}
 
@@ -176,7 +176,7 @@ public class Config implements Cloneable, Serializable {
 	public String toShortStringWithTime() {
 		StringBuilder sb = new StringBuilder();
 		return sb.append(new Lunar(bornYear, bornMonth, bornDay, isDoubleMonth).toString()).append("，")
-				.append(bornTimeGround.getDisplayName()).append("時").append(configType.getDisplayName())
+				.append(bornTimeGround.getDisplayName()).append("时").append(configType.getDisplayName())
 				.append(sex.getDisplayName()).append(" (").append(getBornTimeDescription()).append(")").toString();
 	}
 
@@ -433,11 +433,11 @@ public class Config implements Cloneable, Serializable {
 	public static enum ConfigType {
 
 		/** The ground. */
-		GROUND("地盤", "(出生時間為該時辰頭15分鐘)", "00", "15"),
+		GROUND("地盘", "(出生时间为该时辰头15分钟)", "00", "15"),
 		/** The sky. */
-		SKY("天盤", "(出生時間為該時辰15分至1小時45分之間)", "15", "45"),
+		SKY("天盘", "(出生时间为该时辰头15分钟至1小时45分之间)", "15", "45"),
 		/** The human. */
-		HUMAN("人盤", "(出生時間為該時辰最尾15分鐘)", "45", "00");
+		HUMAN("人盘", "(出生时间为该时辰最尾15分钟)", "45", "00");
 
 		/** The display name. */
 		private String displayName;

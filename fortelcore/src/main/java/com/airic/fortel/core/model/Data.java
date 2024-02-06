@@ -478,9 +478,9 @@ public final class Data {
 	public enum ShadowLight {
 
 		/** The shadow. */
-		SHADOW("陰"),
+		SHADOW("阴"),
 		/** The light. */
-		LIGHT("陽");
+		LIGHT("阳");
 
 		/** The display name. */
 		private String displayName;

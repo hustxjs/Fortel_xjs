@@ -13,9 +13,9 @@ import com.fasterxml.jackson.annotation.JsonValue;
 public enum StarReaction implements StarElement {
 
 	/** The star to treasure. */
-	STAR_TO_TREASURE("祿"),
+	STAR_TO_TREASURE("禄"),
 	/** The star to power. */
-	STAR_TO_POWER("權"),
+	STAR_TO_POWER("权"),
 	/** The star to position. */
 	STAR_TO_POSITION("科"),
 	/** The star to problem. */

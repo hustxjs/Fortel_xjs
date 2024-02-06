@@ -9,10 +9,10 @@ public class Const {
 	public static final String MAJOR_STAR_EMPEROR = "紫微";
 
 	/** The Constant MAJOR_STAR_COUNSELLOR. */
-	public static final String MAJOR_STAR_COUNSELLOR = "天機";
+	public static final String MAJOR_STAR_COUNSELLOR = "天机";
 
 	/** The Constant MAJOR_STAR_SUN. */
-	public static final String MAJOR_STAR_SUN = "太陽";
+	public static final String MAJOR_STAR_SUN = "太阳";
 
 	/** The Constant MAJOR_STAR_MONEY. */
 	public static final String MAJOR_STAR_MONEY = "武曲";
@@ -21,19 +21,19 @@ public class Const {
 	public static final String MAJOR_STAR_RECREATION = "天同";
 
 	/** The Constant MAJOR_STAR_HONEST. */
-	public static final String MAJOR_STAR_HONEST = "廉貞";
+	public static final String MAJOR_STAR_HONEST = "廉贞";
 
 	/** The Constant MAJOR_STAR_TREASURY. */
 	public static final String MAJOR_STAR_TREASURY = "天府";
 
 	/** The Constant MAJOR_STAR_MOON. */
-	public static final String MAJOR_STAR_MOON = "太陰";
+	public static final String MAJOR_STAR_MOON = "太阴";
 
 	/** The Constant MAJOR_STAR_GREED. */
-	public static final String MAJOR_STAR_GREED = "貪狼";
+	public static final String MAJOR_STAR_GREED = "贪狼";
 
 	/** The Constant MAJOR_STAR_MOUTH. */
-	public static final String MAJOR_STAR_MOUTH = "巨門";
+	public static final String MAJOR_STAR_MOUTH = "巨门";
 
 	/** The Constant MAJOR_STAR_HANDPRINT. */
 	public static final String MAJOR_STAR_HANDPRINT = "天相";
@@ -42,19 +42,19 @@ public class Const {
 	public static final String MAJOR_STAR_LAW = "天梁";
 
 	/** The Constant MAJOR_STAR_GENERAL. */
-	public static final String MAJOR_STAR_GENERAL = "七殺";
+	public static final String MAJOR_STAR_GENERAL = "七杀";
 
 	/** The Constant MAJOR_STAR_SOLDIER. */
-	public static final String MAJOR_STAR_SOLDIER = "破軍";
+	public static final String MAJOR_STAR_SOLDIER = "破军";
 
 	/** The Constant MINOR_STAR_CLOTH. */
-	public static final String MINOR_STAR_CLOTH = "祿存";
+	public static final String MINOR_STAR_CLOTH = "禄存";
 
 	/** The Constant MINOR_STAR_HONOR. */
 	public static final String MINOR_STAR_HONOR = "天魁";
 
 	/** The Constant MINOR_STAR_HONOR2. */
-	public static final String MINOR_STAR_HONOR2 = "天鉞";
+	public static final String MINOR_STAR_HONOR2 = "天钺";
 
 	/** The Constant MINOR_STAR_CLEVER. */
 	public static final String MINOR_STAR_CLEVER = "文昌";
@@ -63,7 +63,7 @@ public class Const {
 	public static final String MINOR_STAR_SKILL = "文曲";
 
 	/** The Constant MINOR_STAR_LEFT_SUPPORT. */
-	public static final String MINOR_STAR_LEFT_SUPPORT = "左輔";
+	public static final String MINOR_STAR_LEFT_SUPPORT = "左辅";
 
 	/** The Constant MINOR_STAR_RIGHT_SUPPORT. */
 	public static final String MINOR_STAR_RIGHT_SUPPORT = "右弼";
@@ -78,16 +78,16 @@ public class Const {
 	public static final String MINOR_STAR_FIRE_BURN = "火星";
 
 	/** The Constant MINOR_STAR_INVISIBLE_PROBLEM. */
-	public static final String MINOR_STAR_INVISIBLE_PROBLEM = "鈴星";
+	public static final String MINOR_STAR_INVISIBLE_PROBLEM = "铃星";
 
 	/** The Constant MINOR_STAR_FAILURE. */
 	public static final String MINOR_STAR_FAILURE = "擎羊";
 
 	/** The Constant MINOR_STAR_HINDER. */
-	public static final String MINOR_STAR_HINDER = "陀羅";
+	public static final String MINOR_STAR_HINDER = "陀螺";
 
 	/** The Constant MINOR_STAR_HORSE_CHANGE. */
-	public static final String MINOR_STAR_HORSE_CHANGE = "天馬";
+	public static final String MINOR_STAR_HORSE_CHANGE = "天马";
 
 	/** The Constant MINI_STAR_SKY_NOBLE. */
 	public static final String MINI_STAR_SKY_NOBLE = "天官";
@@ -96,7 +96,7 @@ public class Const {
 	public static final String MINI_STAR_SKY_HAPPINESS = "天福";
 
 	/** The Constant MINI_STAR_SKY_COOK. */
-	public static final String MINI_STAR_SKY_COOK = "天廚";
+	public static final String MINI_STAR_SKY_COOK = "天厨";
 
 	/** The Constant MINI_STAR_SKY_CRY. */
 	public static final String MINI_STAR_SKY_CRY = "天哭";
@@ -105,13 +105,13 @@ public class Const {
 	public static final String MINI_STAR_SKY_LOST = "天虛";
 
 	/** The Constant MINI_STAR_DRAGON_SKILL. */
-	public static final String MINI_STAR_DRAGON_SKILL = "龍池";
+	public static final String MINI_STAR_DRAGON_SKILL = "龙池";
 
 	/** The Constant MINI_STAR_PHOENIX_ART. */
-	public static final String MINI_STAR_PHOENIX_ART = "鳳閣";
+	public static final String MINI_STAR_PHOENIX_ART = "凤阁";
 
 	/** The Constant MINI_STAR_RED_MARRIAGE. */
-	public static final String MINI_STAR_RED_MARRIAGE = "紅鸞";
+	public static final String MINI_STAR_RED_MARRIAGE = "红鸾";
 
 	/** The Constant MINI_STAR_SKY_JOY_REPRODUCTION. */
 	public static final String MINI_STAR_SKY_JOY_REPRODUCTION = "天喜";
@@ -144,7 +144,7 @@ public class Const {
 	public static final String MINI_STAR_GENIUS = "天才";
 
 	/** The Constant MINI_STAR_LONG_LIFE. */
-	public static final String MINI_STAR_LONG_LIFE = "天壽";
+	public static final String MINI_STAR_LONG_LIFE = "天寿";
 
 	/** The Constant MINI_STAR_EMPTY_SKY. */
 	public static final String MINI_STAR_EMPTY_SKY = "天空";
@@ -162,10 +162,10 @@ public class Const {
 	public static final String MINI_STAR_INTERRUPT_SKY2 = "截空2";
 
 	/** The Constant MINI_STAR_PLATFORM_SUPPORT. */
-	public static final String MINI_STAR_PLATFORM_SUPPORT = "台輔";
+	public static final String MINI_STAR_PLATFORM_SUPPORT = "台辅";
 
 	/** The Constant MINI_STAR_REWARD. */
-	public static final String MINI_STAR_REWARD = "封誥";
+	public static final String MINI_STAR_REWARD = "封诰";
 
 	/** The Constant MINI_STAR_SKY_PUNISHMENT. */
 	public static final String MINI_STAR_SKY_PUNISHMENT = "天刑";
@@ -180,7 +180,7 @@ public class Const {
 	public static final String MINI_STAR_SKY_MOON = "天月";
 
 	/** The Constant MINI_STAR_GHOST. */
-	public static final String MINI_STAR_GHOST = "陰煞";
+	public static final String MINI_STAR_GHOST = "阴煞";
 
 	/** The Constant MINI_STAR_RESOLVE2. */
 	public static final String MINI_STAR_RESOLVE2 = "解神2";
@@ -195,16 +195,16 @@ public class Const {
 	public static final String MINI_STAR_STRENGTH = "力士";
 
 	/** The Constant MINI_STAR_GREEN_DRAGON. */
-	public static final String MINI_STAR_GREEN_DRAGON = "青龍";
+	public static final String MINI_STAR_GREEN_DRAGON = "青龙";
 
 	/** The Constant MINI_STAR_SMALL_LOST. */
 	public static final String MINI_STAR_SMALL_LOST = "小耗";
 
 	/** The Constant MINI_STAR_GENERAL. */
-	public static final String MINI_STAR_GENERAL = "將軍";
+	public static final String MINI_STAR_GENERAL = "將军";
 
 	/** The Constant MINI_STAR_LETTER_TO_KING. */
-	public static final String MINI_STAR_LETTER_TO_KING = "奏書";
+	public static final String MINI_STAR_LETTER_TO_KING = "奏书";
 
 	/** The Constant MINI_STAR_WRONG_MOUTH. */
 	public static final String MINI_STAR_WRONG_MOUTH = "蜚廉";
@@ -237,13 +237,13 @@ public class Const {
 	public static final String MINI_STAR_SKY_PRECIOUS = "天貴";
 
 	/** The Constant MINI_STAR_YEAR_GOD. */
-	public static final String MINI_STAR_YEAR_GOD = "太歲";
+	public static final String MINI_STAR_YEAR_GOD = "太岁";
 
 	/** The Constant MINI_STAR_NEGATIVE_MINDSET. */
-	public static final String MINI_STAR_NEGATIVE_MINDSET = "晦氣";
+	public static final String MINI_STAR_NEGATIVE_MINDSET = "晦气";
 
 	/** The Constant MINI_STAR_LOST_DOOR. */
-	public static final String MINI_STAR_LOST_DOOR = "喪門";
+	public static final String MINI_STAR_LOST_DOOR = "丧门";
 
 	/** The Constant MINI_STAR_PENETRATION. */
 	public static final String MINI_STAR_PENETRATION = "貫索";
@@ -255,10 +255,10 @@ public class Const {
 	public static final String MINI_STAR_SMALL_LOST2 = "小耗2";
 
 	/** The Constant MINI_STAR_AGE_BROKEN. */
-	public static final String MINI_STAR_AGE_BROKEN = "歲破";
+	public static final String MINI_STAR_AGE_BROKEN = "岁破";
 
 	/** The Constant MINI_STAR_DRAGON_ETHIC. */
-	public static final String MINI_STAR_DRAGON_ETHIC = "龍德";
+	public static final String MINI_STAR_DRAGON_ETHIC = "龙德";
 
 	/** The Constant MINI_STAR_WHITE_TIGER. */
 	public static final String MINI_STAR_WHITE_TIGER = "白虎";
@@ -276,7 +276,7 @@ public class Const {
 	public static final String MINI_STAR_ANGEL = "天使";
 
 	/** The Constant MINI_STAR_SKY_HURT. */
-	public static final String MINI_STAR_SKY_HURT = "天傷";
+	public static final String MINI_STAR_SKY_HURT = "天伤";
 
 	/** The Constant MINI_STAR_GENERAL_STAR. */
 	public static final String MINI_STAR_GENERAL_STAR = "將星";
@@ -285,19 +285,19 @@ public class Const {
 	public static final String MINI_STAR_CLIMB_HORSE = "攀鞍";
 
 	/** The Constant MINI_STAR_AGE_HORSE. */
-	public static final String MINI_STAR_AGE_HORSE = "歲驛";
+	public static final String MINI_STAR_AGE_HORSE = "岁驿";
 
 	/** The Constant MINI_STAR_REST_GOD. */
 	public static final String MINI_STAR_REST_GOD = "息神";
 
 	/** The Constant MINI_STAR_MYSTIC. */
-	public static final String MINI_STAR_MYSTIC = "華蓋";
+	public static final String MINI_STAR_MYSTIC = "华盖";
 
 	/** The Constant MINI_STAR_LITTLE_DISASTER2. */
 	public static final String MINI_STAR_LITTLE_DISASTER2 = "劫煞2";
 
 	/** The Constant MINI_STAR_DISASTER. */
-	public static final String MINI_STAR_DISASTER = "災煞";
+	public static final String MINI_STAR_DISASTER = "灾煞";
 
 	/** The Constant MINI_STAR_SKY_DISASTER. */
 	public static final String MINI_STAR_SKY_DISASTER = "天煞";
@@ -396,16 +396,16 @@ public class Const {
 	public static final String GROUND_11 = "亥";
 
 	/** The Constant PERSIST12_0. */
-	public static final String PERSIST12_0 = "長生";
+	public static final String PERSIST12_0 = "长生";
 
 	/** The Constant PERSIST12_1. */
 	public static final String PERSIST12_1 = "沐浴";
 
 	/** The Constant PERSIST12_2. */
-	public static final String PERSIST12_2 = "冠帶";
+	public static final String PERSIST12_2 = "冠带";
 
 	/** The Constant PERSIST12_3. */
-	public static final String PERSIST12_3 = "臨官";
+	public static final String PERSIST12_3 = "临官";
 
 	/** The Constant PERSIST12_4. */
 	public static final String PERSIST12_4 = "帝旺";
@@ -429,5 +429,5 @@ public class Const {
 	public static final String PERSIST12_10 = "胎";
 
 	/** The Constant PERSIST12_11. */
-	public static final String PERSIST12_11 = "養";
+	public static final String PERSIST12_11 = "养";
 }

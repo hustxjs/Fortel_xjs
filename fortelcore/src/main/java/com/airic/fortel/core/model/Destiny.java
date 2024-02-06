@@ -28,7 +28,6 @@ import com.airic.fortel.core.util.CommonUtil;
 import com.fasterxml.jackson.annotation.JsonAutoDetect;
 import com.fasterxml.jackson.annotation.JsonAutoDetect.Visibility;
 import com.fasterxml.jackson.annotation.JsonIgnore;
-import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 /**
@@ -71,13 +70,13 @@ public final class Destiny implements Serializable {
 	private boolean pathClockwise;
 
 	/** The ground to cell map. */
-	protected transient Map<Ground, Cell> groundToCellMap = new HashMap<Ground, Cell>();
+	public transient Map<Ground, Cell> groundToCellMap = new HashMap<Ground, Cell>();
 
 	/** The temple to cell map. */
-	protected transient Map<Temple, Cell> templeToCellMap = new HashMap<Temple, Cell>();
+	public transient Map<Temple, Cell> templeToCellMap = new HashMap<Temple, Cell>();
 
 	/** The star to cell map. */
-	protected transient Map<Star, Cell> starToCellMap = new HashMap<Star, Cell>();
+	public transient Map<Star, Cell> starToCellMap = new HashMap<Star, Cell>();
 
 	/** The age start indexed cells. */
 	private transient List<Cell> ageStartIndexedCells = new ArrayList<Cell>();
@@ -376,7 +375,7 @@ public final class Destiny implements Serializable {
 	public String toJsonString() {
 		try {
 			return new ObjectMapper().writeValueAsString(this);
-		} catch (JsonProcessingException e) {
+		} catch (Exception e) {
 			e.printStackTrace();
 		}
 		

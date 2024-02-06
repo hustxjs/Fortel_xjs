@@ -30,19 +30,19 @@ public enum Temple {
 	TEMPLE_CHILDREN("子女", "子女宮", "children", 4),
 
 	/** The temple money. */
-	TEMPLE_MONEY("財帛", "財帛宮", "money", 5),
+	TEMPLE_MONEY("财帛", "财帛宮", "money", 5),
 
 	/** The temple sick. */
 	TEMPLE_SICK("疾厄", "疾厄宮", "sick", 6),
 
 	/** The temple move. */
-	TEMPLE_MOVE("遷移", "遷移宮", "move", 7),
+	TEMPLE_MOVE("迁移", "迁移宮", "move", 7),
 
 	/** The temple friend. */
 	TEMPLE_FRIEND("交友", "交友宮", "friend", 8),
 
 	/** The temple career. */
-	TEMPLE_CAREER("事業", "事業宮", "career", 9),
+	TEMPLE_CAREER("事业", "事业宮", "career", 9),
 
 	/** The temple house. */
 	TEMPLE_HOUSE("田宅", "田宅宮", "house", 10),

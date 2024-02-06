@@ -12,7 +12,7 @@ import org.joda.time.Duration;
 public final class LunarUtil {
 
 	/** 大寫月數. */
-	private static final String CHN_NUMBER[] = { "一", "二", "三", "四", "五", "六", "七", "八", "九", "十", "冬", "臘" };
+	private static final String CHN_NUMBER[] = { "一", "二", "三", "四", "五", "六", "七", "八", "九", "十", "冬", "腊" };
 
 	/** 陰曆月數大小. */
 	private static final String BIG_OR_SMALL[] = { "大", "小", "大", "小", "大", "小", "大", "大", "小", "大", "小", "大" };
@@ -410,7 +410,7 @@ public final class LunarUtil {
 	 */
 	private static String cyclicalm(int num) {
 		final String[] Gan = new String[] { "甲", "乙", "丙", "丁", "戊", "己", "庚", "辛", "壬", "癸" };
-		final String[] Zhi = new String[] { "子", "醜", "寅", "卯", "辰", "巳", "午", "未", "申", "酉", "戌", "亥" };
+		final String[] Zhi = new String[] { "子", "丑", "寅", "卯", "辰", "巳", "午", "未", "申", "酉", "戌", "亥" };
 		return (Gan[num % 10] + Zhi[num % 12]);
 	}
 
